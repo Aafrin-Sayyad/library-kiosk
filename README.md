@@ -48,7 +48,4 @@ library-kiosk/
 
 ## Live Demo
 
-deployed on GitHub Pages:
-https://yourusername.github.io/library-kiosk/
-
-(replace yourusername with your actual github username)
+https://library-kiosk.netlify.app/
